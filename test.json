@@ -1,0 +1,83 @@
+{
+  "id": 1,
+  "createdAt": "2022-07-15T01:39:47.196864+09:00",
+  "updatedAt": "2022-07-15T01:39:47.196864+09:00",
+  "deletedAt": null,
+  "leagueId": "e8ce62ea6c1948baaa6ef3be1c595b67",
+  "rules": {
+    "id": 0,
+    "createdAt": "0001-01-01T00:00:00Z",
+    "updatedAt": "0001-01-01T00:00:00Z",
+    "deletedAt": null,
+    "league_id": "",
+    "gameType": "",
+    "gameName": "",
+    "playerCount": 0,
+    "dora": "",
+    "tanyao": "",
+    "startPoint": 0,
+    "finishPoint": 0,
+    "returnPoint": 0,
+    "calledPoint": 0,
+    "reachPoint": 0,
+    "deposit": 0,
+    "penalty1": 0,
+    "penalty2": 0,
+    "penalty3": 0,
+    "uma1": 0,
+    "uma2": 0,
+    "uma3": 0,
+    "uma4": 0
+  },
+  "players": null,
+  "results": [
+    {
+      "id": 1,
+      "createdAt": "2022-07-15T01:39:47.198465+09:00",
+      "updatedAt": "2022-07-15T01:39:47.198465+09:00",
+      "deletedAt": null,
+      "playerId": 1,
+      "playerName": "",
+      "rank": 1,
+      "point": 40000,
+      "calcPoint": 60,
+      "gameId": 1
+    },
+    {
+      "id": 2,
+      "createdAt": "2022-07-15T01:39:47.198465+09:00",
+      "updatedAt": "2022-07-15T01:39:47.198465+09:00",
+      "deletedAt": null,
+      "playerId": 2,
+      "playerName": "",
+      "rank": 2,
+      "point": 30000,
+      "calcPoint": 10,
+      "gameId": 1
+    },
+    {
+      "id": 3,
+      "createdAt": "2022-07-15T01:39:47.198465+09:00",
+      "updatedAt": "2022-07-15T01:39:47.198465+09:00",
+      "deletedAt": null,
+      "playerId": 3,
+      "playerName": "",
+      "rank": 3,
+      "point": 20000,
+      "calcPoint": -20,
+      "gameId": 1
+    },
+    {
+      "id": 4,
+      "createdAt": "2022-07-15T01:39:47.198465+09:00",
+      "updatedAt": "2022-07-15T01:39:47.198465+09:00",
+      "deletedAt": null,
+      "playerId": 4,
+      "playerName": "",
+      "rank": 4,
+      "point": 10000,
+      "calcPoint": -50,
+      "gameId": 1
+    }
+  ]
+}
